@@ -67,7 +67,6 @@ endif
 
 PRODUCT_COPY_FILES += \
     hardware/qcom/audio/configs/msm8996/audio_output_policy.conf:system/vendor/etc/audio_output_policy.conf \
-    hardware/qcom/audio/configs/msm8996/audio_effects.conf:system/vendor/etc/audio_effects.conf \
     hardware/qcom/audio/configs/msm8996/aanc_tuning_mixer.txt:system/etc/aanc_tuning_mixer.txt \
     hardware/qcom/audio/configs/msm8996/sound_trigger_mixer_paths.xml:system/etc/sound_trigger_mixer_paths.xml \
     hardware/qcom/audio/configs/msm8996/sound_trigger_mixer_paths_wcd9330.xml:system/etc/sound_trigger_mixer_paths_wcd9330.xml \
